@@ -6,11 +6,6 @@
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1rQ1TG_9zv9Ij7PuopyuBUm4D/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://linktr.ee/abdulvaha) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abub) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abub)
 
-<!--
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abubakthiyar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnGZRc2eohC0mySkxA5uLdQ)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/abdulvahabaa/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-greeen.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abdulvahabaa/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/993565385150435532) -->
-
 ## 🚀 About Me <img src="animated/rabbit.gif" height="30" />
 
 #### Junior software engineer Node.js & GoLang, Full Stack Developer, and Certified Ethical Hacker.
@@ -26,8 +21,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdulvahabaa&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulvahabaa&layout=compact&theme=blue-green)
-
-<!-- ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact)-->
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord)
 
@@ -92,20 +85,12 @@
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=rest-api&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%234095F6.svg?style=for-the-badge&logo=websockets&logoColor=white)
 
-<!-- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%2300515A.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) -->
-
 ### 💻 Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-<!-- ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-%2300A0D1.svg?style=for-the-badge&logo=neo4j&logoColor=white) -->
 
 ### 💻 Testing
 
@@ -114,11 +99,6 @@
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23006DFF.svg?style=for-the-badge&logo=hoppscotch&logoColor=white)
-
-<!-- ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/Chai-%23A30701.svg?style=for-the-badge&logo=chai&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-%23327A1E.svg?style=for-the-badge&logo=cucumber&logoColor=white) -->
 
 ### 💻 DevOps
 
@@ -158,9 +138,6 @@
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oT14OeZJZU6a/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abdulvahabaa916@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/abdu) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+9747733770) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulvahabaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abub) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/abub)
 
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnGZRc2eohC0mySkxA5uLdQ)  -->
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=abdulvahabaa&icon=5&color=0)](https://visitcount.itsvg.in)
-# github-profile-readme-youtube
